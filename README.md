@@ -1,4 +1,4 @@
-# DCIT-104-assignment-
+# DCIT-104-assignment-STUDENT ID-10980326
 Calculating the average of Prime numbers within a  range 
 #include <iostream>
 
